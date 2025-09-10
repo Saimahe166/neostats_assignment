@@ -1,0 +1,13 @@
+streamlit
+openai
+sentence-transformers
+faiss-cpu
+numpy
+pandas
+pdfminer.six
+requests
+beautifulsoup4
+tiktoken
+python-dotenv
+langchain
+pytest
